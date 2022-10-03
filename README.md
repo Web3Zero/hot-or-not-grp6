@@ -7,14 +7,13 @@ Provide users with clothing suggestions based on the weather in a location that 
 
 This project has been deployed to GitHub pages. To access this project click the deployement link below:
 
-https://dgourley84.github.io/Hot-or-Not/
+https://web3zero.github.io/hot-or-not-grp6/
 
 Or, download the source files to use as a template.
 
 # Getting Started
 This project has been deployed to GitHub Pages. To access this project click the deployment link below. Or, download the sources files to use this as a template.
-- https://dgourley84.github.io/Hot-or-Not/
-- https://github.com/dgourley84/Hot-or-Not
+- https://github.com/Web3Zero/hot-or-not-grp6
 
 # Pre-requisites
 If you wish to use this as a template you will need a text editor. Visual Studio Code was used to create this project and is the recomended application.
